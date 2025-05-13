@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue; /* Celowy błąd: brak średnika */
+    color: #333;
+}
+
+h1 {
+    color: navy;
+    font-size: 28px; /* Celowy błąd: brak średnika */
+    text-align: center; /* Celowy błąd: kropka zamiast średnika */
+}
+
+p {
+    line-height: 1.6; /* Celowy błąd: literówka w 'line-height' */
+}
